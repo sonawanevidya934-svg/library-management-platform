@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+.venv-ci/
+env/
+ENV/
+
+# Test and coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+reports/
+*.xml
+
+# Misc
+*.log
+.DS_Store
